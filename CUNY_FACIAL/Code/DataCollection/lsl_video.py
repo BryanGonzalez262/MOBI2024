@@ -208,10 +208,6 @@ def check_file(dir, fname):
 def start_tobii():
 
 
-
-
-
-
     ET_script = "C:/Users/Admin/Desktop/tobiilsl.py"
 
     python_executable = "C:/Program Files/PsychoPy/python.exe"
